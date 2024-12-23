@@ -10,3 +10,5 @@
 
 A `programmer` using `Java` and learning `Rust`. Knows a little of everything but has no expert skill in any particular area.
 
+![full stats](https://github-readme-stats.vercel.app/api?username=hellyguo&show_icons=true)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyguo&layout=compact)
