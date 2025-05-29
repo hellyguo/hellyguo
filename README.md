@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on `Java`
 - 🌱 I’m currently learning `Rust`
 
-A `programmer` using `Java` and learning `Rust`. Knows a little of everything but has no expert skill in any particular area.
+`Java` developer diving into `Rust`. Full-stack **jack**, master of **none** (yet).
 
 ![full stats](https://github-readme-stats.vercel.app/api?username=hellyguo&show_icons=true&theme=gruvbox)
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyguo&layout=compact&theme=gruvbox)
