@@ -8,4 +8,4 @@
 - 🔭 I'm currently working on `Java`
 - 🌱 I'm currently learning `Rust`
 
-`Java` developer diving into `Rust`. Full-stack **jack**, master of **none** (yet).
+`Java` developer diving into `Rust`. **Jack** of all trades, master of **none** (yet).
